@@ -1,0 +1,3 @@
+return_id,purchase_id,return_date,quantity,return_reason
+RET001,PUR001,2026-08-10,1,Damaged item
+RET002,PUR004,2026-08-15,1,Unwanted gift
