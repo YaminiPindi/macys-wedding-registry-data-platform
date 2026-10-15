@@ -1,0 +1,11 @@
+product_id,product_name,category,brand,price
+P001,Stainless Steel Cookware Set,Cookware,All-Clad,499.99
+P002,Nonstick Frying Pan,Cookware,Anolon,79.99
+P003,Espresso Machine,Small Appliances,Breville,599.99
+P004,Stand Mixer,Small Appliances,KitchenAid,349.99
+P005,Dinner Plate Set,Dinnerware,Corelle,89.99
+P006,Knife Block Set,Cutlery,Chicago Cutlery,129.99
+P007,Baking Sheet Set,Bakeware,Calphalon,59.99
+P008,Crystal Glass Set,Glassware,ExampleBrand,49.99
+P009,Cotton Sheet Set,Bedding,ExampleBrand,119.99
+P010,Table Lamp,Home Decor,ExampleBrand,69.99
