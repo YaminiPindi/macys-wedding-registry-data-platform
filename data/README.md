@@ -25,4 +25,4 @@ This folder contains synthetic datasets for the Macy's Wedding Registry Data Pla
 - Ensure purchase and return records are consistent.
 
 ## Disclaimer
-This is an independent educational portfolio project. It uses synthetic data and is not affiliated with Macy's or based on Macy's internal or customer data.
+It uses synthetic data and is not affiliated with Macy's or based on Macy's internal or customer data.
