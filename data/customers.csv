@@ -1,0 +1,12 @@
+customer_id,first_name,last_name,age,city,state
+
+c001,Sarah,Miller,29,Dallas,Tx
+c002,Emily,Johnson,31,Austin,Tx
+c003,Olivia,Brown,27,Houston,Tx
+c004,Ava,Wilson,30,plano,Tx
+c005,Sophia,Garcia,28,Frisco,Tx
+c006,Emma,Martinez,32,Irving,TX
+c007,Mia,Davis,26,Arlington,Tx
+c008,Charlotte,Anderson,34,Mckinney,Tx
+c009,Amelia,Thomas,29,Denton,Tx
+c019,EvenlyTaylor,31,FortWorth,Tx
