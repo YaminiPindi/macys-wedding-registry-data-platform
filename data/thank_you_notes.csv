@@ -1,0 +1,10 @@
+thank_you_id,registry_item_id,thank_you_status,sent_date
+TY001,RI002,Sent,2026-08-10
+TY002,RI003,Sent,2026-08-12
+TY003,RI004,Pending,
+TY004,RI006,Sent,2026-08-15
+TY005,RI008,Pending,
+TY006,RI010,Sent,2026-08-18
+TY007,RI013,Pending,
+TY008,RI018,Sent,2026-08-22
+TY009,RI019,Pending,
