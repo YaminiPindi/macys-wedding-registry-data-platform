@@ -1,0 +1,10 @@
+tracker_id,registry_item_id,tracking_status,last_updated
+GT001,RI002,Delivered,2026-08-05
+GT002,RI003,Delivered,2026-08-07
+GT003,RI004,Shipped,2026-08-08
+GT004,RI006,Delivered,2026-08-10
+GT005,RI008,Shipped,2026-08-12
+GT006,RI010,Delivered,2026-08-14
+GT007,RI013,Processing,2026-08-16
+GT008,RI018,Delivered,2026-08-19
+GT009,RI019,Shipped,2026-08-21
